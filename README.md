@@ -20,12 +20,6 @@ In this project, We built a basic website that allows users to add/remove books 
 - Twitter: [@Vagyasri](https://twitter.com/Vagyasri)
 - LinkedIn: [Bhagyashree Patra](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
-## Author 2
-
-👤 **Mohammed Al-Asfar**
-
-- GitHub: [@elasfarc](https://github.com/elasfarc)
-
 ## Getting Started
 
 ### Prerequisites:
